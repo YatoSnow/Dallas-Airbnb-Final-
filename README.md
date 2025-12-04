@@ -1,8 +1,8 @@
-# Dallas Airbnb Data Analysis and Price Prediction Project 🏠
+# Dallas Airbnb Data Analysis and Price Prediction Project 
 
 This project involves a comprehensive exploratory data analysis (EDA) and machine learning modeling to predict Airbnb accommodation prices in Dallas, Texas.
 
-## 📂 Project Structure
+##  Project Structure
 
 The project follows a structured data science workflow, from data cleaning to final reporting:
 
@@ -26,7 +26,7 @@ The project follows a structured data science workflow, from data cleaning to fi
     * `listings.xlsx`: Raw dataset containing Airbnb listings.
     * `neighbourhoods.geojson`: Geospatial data for Dallas neighbourhood boundaries.
 
-## 🛠️ Technologies & Libraries
+##  Technologies & Libraries
 
 The project is developed using **Python**. The following libraries were utilized:
 
@@ -35,13 +35,13 @@ The project is developed using **Python**. The following libraries were utilized
 * **Geospatial Analysis:** Geopandas
 * **Machine Learning:** Scikit-learn, [XGBoost/LightGBM if applicable]
 
-## 📊 Key Findings
+##  Key Findings
 
 * **Most Expensive Neighbourhoods:** [Mention top 1-2 expensive areas found in your analysis]
 * **Key Price Drivers:** [e.g., Number of bedrooms, location, amenities like pool/gym]
 * **Model Performance:** The final model predicts prices with an accuracy of [Insert R2 score or generic accuracy]%.
 
-## 🚀 Installation & Usage
+##  Installation & Usage
 
 To run this project locally:
 
